@@ -1,0 +1,8 @@
+A Peek Inside The Ruby Toolbox 50min
+Mastering Elasticsearch With Ruby 120min
+Extending Gems - Patterns and Anti-Patterns of Making Your Gem Pluggable 45min
+Under The Influence 10min
+Fault Tolerant Data: Surviving the Zombie Apocalypse 45min
+Extreme Makeover: Rubygems Edition 120min
+How To Roll Your Own Ops Framework In Ruby (If You Really Have To) 15min
+Profiling Ruby: Finding Gains In RSpec and CRuby 15min

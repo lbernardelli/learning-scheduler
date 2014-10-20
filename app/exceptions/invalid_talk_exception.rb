@@ -1,0 +1,2 @@
+class InvalidTalkException < Exception
+end
